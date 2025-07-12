@@ -19,6 +19,8 @@
 
 **타이머 중심의 토론 진행 서비스** (2024.12.01 ~ 운영중)
 
+FE(React) 개발로 참여
+
 [🔗 서비스 바로가기](https://www.debate-timer.com/login) ｜ [📁 GitHub](https://github.com/debate-timer/debate-timer-fe)
 
 ---
@@ -27,9 +29,22 @@
 
 **모임 개설부터 참여까지 쉽게 연결하는 집단별 커뮤니티 플랫폼**
 
+FE(React) 개발로 참여
+
 [📄 소개 페이지](https://sites.google.com/view/woowacourse-demo-6th/프로젝트/모우다) | [🔗 GitHub](https://github.com/woowacourse-teams/2024-mouda/tree/develop-frontend)
 
 ---
+
+#### 🔹 GEKKOTA (2026.03.02 ~ 2025.05.30) - 운영 종료
+
+**AI/IoT 융합 파충류 맞춤형 스마트 케어 시스템**
+
+FE(React-native) 개발로 참여
+
+[📄 소개 페이지](https://github.com/Gekkota-capstone) | [🔗 GitHub](https://github.com/Gekkota-capstone/Gekkota-FE)
+
+---
+
 
 ### 🌱 Education
 
