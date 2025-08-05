@@ -68,3 +68,4 @@ FE(React-native) 개발로 참여
 
 * SQLD
 * 정보처리기사
+* Opic IM1
