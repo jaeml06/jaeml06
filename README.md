@@ -7,13 +7,13 @@
 
 ### 🛠️ Tech Stack
 
-주로 사용하는 기술 및 언어
+- 주로 사용하는 기술 및 언어
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white"/>
 
-학습 경험이 있는 기술 및 언어
+- 학습 경험이 있는 기술 및 언어
 
-<img src="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white" />
 
 ---
 
