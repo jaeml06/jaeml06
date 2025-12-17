@@ -25,7 +25,7 @@
 
 FE(React) 개발로 참여
 
-[🔗 서비스 바로가기](https://www.debate-timer.com/) ｜ [📁 GitHub](https://github.com/debate-timer/debate-timer-fe)
+[🔗 서비스 바로가기](https://www.debate-timer.com/) ｜ [🔗 GitHub](https://github.com/debate-timer/debate-timer-fe)
 
 ---
 
