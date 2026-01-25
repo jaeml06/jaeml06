@@ -35,7 +35,7 @@ FE(React) 개발로 참여
 
 FE(Next.js) 개발로 참여
 
-[📄 소개 페이지](https://moit.kr/) | [🔗 GitHub](https://github.com/YAPP-Github/27th-Web-Team-2-FE)
+[🔗 서비스 바로가기](https://moit.kr/) | [🔗 GitHub](https://github.com/YAPP-Github/27th-Web-Team-2-FE)
 
 ---
 
