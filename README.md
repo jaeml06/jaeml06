@@ -59,6 +59,11 @@ FE(React-native) 개발로 참여
 
 ---
 
+### 🌱 Activity
+**YAPP(IT 연합동아리) 27기 (프론트엔드)**
+2025.11 - 활동중
+
+
 
 ### 🌱 Education
 
